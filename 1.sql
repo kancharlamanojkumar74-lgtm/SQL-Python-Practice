@@ -1,0 +1,1 @@
+SELECT* from Employee_Database;
